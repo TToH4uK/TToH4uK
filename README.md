@@ -1,8 +1,8 @@
 ### Hi there, I'm Ivan👋
 
-· 🌱 I’m currently learning Python, SQL
-· 📫 How to reach me: https://t.me/IvanXimik
-· 😄 Pronouns: he/him
+🌱 I’m currently learning Python, SQL <br />
+📫 How to reach me: https://t.me/IvanXimik <br />
+😄 Pronouns: he/him <br />
 <!--
 **TToH4uK/TToH4uK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
