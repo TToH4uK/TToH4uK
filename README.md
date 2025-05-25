@@ -6,7 +6,7 @@
 
 ## ✨ About Me
 
-I am an enthusiastic **Database Developer (DBD) and Database Administrator (DBA)**. I enjoy working with databases, optimizing performance, designing schemas, and ensuring data integrity and availability. I have experience with various database systems and related technologies, demonstrated in the tech stack listed below.
+I am an enthusiastic **Database Developer (DBD) and Database Administrator (DBA)**. I enjoy working with databases, optimizing performance, designing schemas, and ensuring data integrity and availability. 
 
 ## 🛠️ My Tech Stack
 
