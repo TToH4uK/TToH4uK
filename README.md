@@ -6,7 +6,7 @@
 
 ## ✨ About Me
 
-I am an enthusiastic **Database Developer (DBD) and Database Administrator (DBA)**. I enjoy working with databases, optimizing performance, designing schemas, and ensuring data integrity and availability. 
+I am an enthusiastic **Database Developer (DBD) and Database Administrator (DBA)**. I enjoy working with databases, optimizing performance, designing schemas, and ensuring data integrity and availability. I have experience with various database systems and related technologies, demonstrated in the tech stack listed below.
 
 ## 🛠️ My Tech Stack
 
@@ -21,6 +21,14 @@ I have experience working with the following technologies and tools:
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                                                                                                                                                                                                                                                                                                                 |
 
 <br>
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TToH4uK&layout=compact&theme=radical)
+
+---
 
 ## 📬 Get in Touch
 
